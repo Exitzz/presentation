@@ -28,6 +28,14 @@
     flex: 1 1 auto;
     color: #B925B9;
   }
+  .smallItem, .smallItem1, .smallItem2{
+    background-color:#c71585;
+    flex: 1 1 auto;
+  }
+  .bigItem{
+    background-color: #fcc200;
+    display: inline-flex;
+  }
 
   /*.order {
     order: 1;
