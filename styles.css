@@ -10,7 +10,7 @@
   }
 
   .item{
-    background-color:#f5f5f5;
+    background-color:#e5e4e2;
     padding:40px;
   /* margin:10px;*/
     text-align:center;
@@ -20,23 +20,37 @@
   }
 
   .item1{
-    background-color:#0047ab;
+    background-color:#cd5b45;
     padding:40px;
     /*margin:10px;*/
     text-align:center;
     /*flex-basis: 160px;*/
     flex: 1 1 auto;
     color: #B925B9;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: space-around;
   }
-  .smallItem, .smallItem1, .smallItem2{
-    background-color:#c71585;
+  .smallItem, .smallItem1, .smallItem2 {
+    background-color:#e5e4e2;
     flex: 1 1 auto;
+    margin:10px;
+    padding: 15px 15px;
   }
-  .bigItem{
-    background-color: #fcc200;
-    display: inline-flex;
+  .smallItem {
+
+    border: none;
+    color: black;
+
+    transition: 0.3s;
   }
 
+  .smallItem:hover {
+    background-color:#48d1cc;
+    color: white;
+}
   /*.order {
     order: 1;
   }*/
@@ -47,7 +61,7 @@
   }
   .item h1{
     font-family: 'Quicksand', sans-serif;
-    color: #0000cd;
+    color: #0abab5;
     padding-bottom: 20px;
   }
   h2 {
@@ -55,21 +69,22 @@
     padding-bottom: 20px;
     font-family: 'Quicksand', sans-serif;
     font-size: 25px;
-    color: #0000cd;
+    color: #0abab5;
 
 
   }
   .item1 p {
     font-family: 'Quicksand', sans-serif;
     font-size: 20px;
-    color: #f5f5f5;
+    color: #cd5b45;
     line-height: 40px;
     word-spacing: 10px;
+
   }
 
   ul {
     padding-top: 30px;
-    color: #0000cd;
+    color: #a2006d;
     font-family: 'Quicksand', sans-serif;
     font-size: 21px;
     list-style: none;
@@ -104,7 +119,7 @@
     transition: 0.5s;
     text-decoration: none;
     font-family: 'Quicksand', sans-serif;
-    color:#0000cd;
+    color:white;
   }
 
   .socialIcons li i {
