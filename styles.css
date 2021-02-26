@@ -20,7 +20,7 @@
   }
 
   .item1{
-    background-color:#cd5b45;
+    background-color:#43b3ae;
     padding:40px;
     /*margin:10px;*/
     text-align:center;
@@ -39,16 +39,14 @@
     margin:10px;
     padding: 15px 15px;
   }
-  .smallItem {
-
+  .smallItem, .smallItem1, .smallItem2 {
     border: none;
     color: black;
-
     transition: 0.3s;
   }
 
-  .smallItem:hover {
-    background-color:#48d1cc;
+  .smallItem:hover, .smallItem1:hover, .smallItem2:hover {
+    background-color:#f7e98e;
     color: white;
 }
   /*.order {
@@ -61,7 +59,7 @@
   }
   .item h1{
     font-family: 'Quicksand', sans-serif;
-    color: #0abab5;
+    color: #800080;
     padding-bottom: 20px;
   }
   h2 {
@@ -69,14 +67,14 @@
     padding-bottom: 20px;
     font-family: 'Quicksand', sans-serif;
     font-size: 25px;
-    color: #0abab5;
+    color: #800080;
 
 
   }
   .item1 p {
     font-family: 'Quicksand', sans-serif;
     font-size: 20px;
-    color: #cd5b45;
+    color: #4b0082;
     line-height: 40px;
     word-spacing: 10px;
 
@@ -99,7 +97,7 @@
   }
 
   .socialIcons li {
-    background-color: #ffcc33;
+    background-color: #43b3ae;
     list-style: none;
     display: inline-block;
     margin: 4px;
@@ -119,7 +117,7 @@
     transition: 0.5s;
     text-decoration: none;
     font-family: 'Quicksand', sans-serif;
-    color:white;
+    color:#e5e4e2;
   }
 
   .socialIcons li i {
