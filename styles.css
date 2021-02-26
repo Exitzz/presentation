@@ -21,7 +21,7 @@
 
   .item1{
     background-color:#43b3ae;
-    padding:40px;
+    padding:20px;
     /*margin:10px;*/
     text-align:center;
     /*flex-basis: 160px;*/
@@ -96,7 +96,7 @@
     font-family: 'Quicksand', sans-serif;
     font-size: 21px;
     list-style: none;
-    
+
     line-height: 2;
     word-spacing: 10px;
   }
