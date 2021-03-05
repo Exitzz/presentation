@@ -10,7 +10,7 @@
 }
 
 .item{
-  background-color:#333652;
+  background-color:#E5E8ED;
   padding:40px;
 /* margin:10px;*/
   text-align:center;
@@ -20,7 +20,7 @@
 }
 
 .item1{
-  background-color:#E9EAEC;
+  background-color:#103548;
   padding:20px;
   /*margin:10px;*/
   text-align:center;
@@ -44,12 +44,12 @@
 }
 .smallItem, .smallItem1, .smallItem2 {
   border: none;
-  color: black;
+  color: #051313;
   transition: 0.3s;
 }
 
 .smallItem:hover, .smallItem1:hover, .smallItem2:hover {
-  background-color:#90ADC6;
+  background-color:#8BE5AD;
   color: white;
 }
 /*.order {
@@ -58,13 +58,13 @@
 .item1 h1 {
   font-family: 'Staatliches', cursive;
   word-spacing: 8px;
-  color: #333652;
+  color: #E5E8ED;
   padding: 10px;
 
 }
 .item h1{
   font-family: 'Staatliches', cursive;
-  color: #FAD02C;
+  color: #051313;
   padding-bottom: 20px;
 }
 .item h2 {
@@ -72,10 +72,10 @@
   padding-bottom: 20px;
   font-family: 'Quicksand', sans-serif;
   font-size: 25px;
-  color: #FAD02C;
+  color: #051313;
 }
 .item h3 {
-  color: #FAD02C;
+  color: #051313;
   font-family: 'Staatliches', cursive;
   font-size: 35px;
 
@@ -92,7 +92,7 @@
 
 ul {
   padding-top: 30px;
-  color: #FAD02C;
+  color: #051313;
   font-family: 'Quicksand', sans-serif;
   font-size: 21px;
   list-style: none;
@@ -107,7 +107,7 @@ ul.socialIcons {
 }
 
 .socialIcons li {
-  background-color: #FAD02C;
+  background-color: #8BE5AD;
   list-style: none;
   display: inline-block;
   margin: 4px;
@@ -127,7 +127,7 @@ ul.socialIcons {
   transition: 0.5s;
   text-decoration: none;
   font-family: 'Staatliches', cursive;
-  color: #333652;
+  color: #103548;
 }
 
 .socialIcons li i {
