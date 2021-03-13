@@ -56,14 +56,14 @@
   order: 1;
 }*/
 .item1 h1 {
-  font-family: 'Staatliches', cursive;
+  font-family: 'Francois One', sans-serif;
   word-spacing: 8px;
   color: #E5E8ED;
   padding: 10px;
 
 }
 .item h1{
-  font-family: 'Staatliches', cursive;
+  font-family: 'Francois One', sans-serif;
   color: #051313;
   padding-bottom: 20px;
 }
@@ -76,7 +76,7 @@
 }
 .item h3 {
   color: #051313;
-  font-family: 'Staatliches', cursive;
+  font-family: 'Francois One', sans-serif;
   font-size: 35px;
 
 }
