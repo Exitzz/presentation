@@ -1,5 +1,5 @@
 var timer = null;
-var countdownNumber = 5;
+var countdownNumber = 10;
 
 var changeState = function(state) {
     document.body.className = "body-state" + state;
